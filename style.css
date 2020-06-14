@@ -1,0 +1,15 @@
+.jumbotron {
+	background-image: url(img/Slider3.jpg);
+	background size: cover;
+	height: 800px;
+	text-align: center;
+	margin-top: -20px;
+}
+.jumbotron .display-4 {
+	color: white;
+	margin-top: 320px;
+}
+.jumbotron p {
+	color: white;
+	font-size: 25px;
+}
